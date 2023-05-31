@@ -19,7 +19,8 @@ private int[] stack;
 	public StackArray (int size) {
 		maxSize = size;             // set array size
 		stack = new int[maxSize];   // create array for stack
-		top = -1;                   // set top to -1 (no items in stack yet)
+		top = -1;          
+                System.out.println("i hope you are happy");// set top to -1 (no items in stack yet)
 	}
 	
 	
