@@ -20,7 +20,8 @@ private int[] stack;
 		maxSize = size;             // set array size
 		stack = new int[maxSize];   // create array for stack
 		top = -1;          
-                System.out.println("i hope you are happy");// set top to -1 (no items in stack yet)
+                System.out.println("i hope you are happy");
+            System.out.println("hhhhhhhhhhhhhh");// set top to -1 (no items in stack yet)
 	}
 	
 	
