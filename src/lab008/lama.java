@@ -10,5 +10,6 @@ package lab008;
  * @author lenovo
  */
 public class lama {
-    
+   int i;
+   String h;
 }
